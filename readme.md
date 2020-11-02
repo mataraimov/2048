@@ -9,8 +9,8 @@
 
 # ScreenShots
 
-![вот так выглядит игра](https://github.com/mataraimov/2048/screens/1.png)
+![вот так выглядит игра](https://github.com/mataraimov/2048/raw/blame/screens/1.png)
 
-![32X32](https://github.com/mataraimov/2048/screens/2.png)
+![32X32](https://github.com/mataraimov/2048/raw/blame/screens/2.png)
 
-![Можно отмянять ходы](https://github.com/mataraimov/2048/screens/3.png)
+![Можно отмянять ходы](https://github.com/mataraimov/2048/raw/blame/screens/3.png)
